@@ -11,9 +11,6 @@ def late_fees(d1, m1, y1, d2, m2, y2,):
         fine=0
         else
             fine = (d1 - d2) * 10:
-
-
-
         print("Good boy. So no late fees")
     else:
         print("nothing")
